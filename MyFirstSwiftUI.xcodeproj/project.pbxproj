@@ -86,7 +86,7 @@
 		8A11AD99258C884E002F3390 = {
 			isa = PBXGroup;
 			children = (
-				8A11AD9E258C884E002F3390 /* Shared */,
+				8A11AD9E258C884E002F3390 /* MyFirstSwiftUI */,
 				8A11ADA8258C884F002F3390 /* iOS */,
 				8A11ADAF258C884F002F3390 /* macOS */,
 				8A11ADB9258C884F002F3390 /* Tests iOS */,
@@ -95,14 +95,14 @@
 			);
 			sourceTree = "<group>";
 		};
-		8A11AD9E258C884E002F3390 /* Shared */ = {
+		8A11AD9E258C884E002F3390 /* MyFirstSwiftUI */ = {
 			isa = PBXGroup;
 			children = (
 				8A11AD9F258C884E002F3390 /* MyFirstSwiftUIApp.swift */,
 				8A11ADA0258C884E002F3390 /* ContentView.swift */,
 				8A11ADA1258C884F002F3390 /* Assets.xcassets */,
 			);
-			path = Shared;
+			path = MyFirstSwiftUI;
 			sourceTree = "<group>";
 		};
 		8A11ADA7258C884F002F3390 /* Products */ = {
