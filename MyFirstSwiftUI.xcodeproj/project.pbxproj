@@ -15,6 +15,8 @@
 		8A11ADCB258C884F002F3390 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A11ADA0258C884E002F3390 /* ContentView.swift */; };
 		8A11ADCC258C884F002F3390 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A11ADA1258C884F002F3390 /* Assets.xcassets */; };
 		8A11ADCD258C884F002F3390 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A11ADA1258C884F002F3390 /* Assets.xcassets */; };
+		8A6A78FC258EA5CA00539CA8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A6A78FB258EA5CA00539CA8 /* LaunchScreen.storyboard */; };
+		8A6A78FD258EA5CA00539CA8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A6A78FB258EA5CA00539CA8 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,7 @@
 		8A11ADC1258C884F002F3390 /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A11ADC5258C884F002F3390 /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		8A11ADC7258C884F002F3390 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8A6A78FB258EA5CA00539CA8 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +104,7 @@
 				8A11AD9F258C884E002F3390 /* MyFirstSwiftUIApp.swift */,
 				8A11ADA0258C884E002F3390 /* ContentView.swift */,
 				8A11ADA1258C884F002F3390 /* Assets.xcassets */,
+				8A6A78FB258EA5CA00539CA8 /* LaunchScreen.storyboard */,
 			);
 			path = MyFirstSwiftUI;
 			sourceTree = "<group>";
@@ -276,6 +280,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8A11ADCC258C884F002F3390 /* Assets.xcassets in Resources */,
+				8A6A78FC258EA5CA00539CA8 /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,6 +289,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8A11ADCD258C884F002F3390 /* Assets.xcassets in Resources */,
+				8A6A78FD258EA5CA00539CA8 /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
